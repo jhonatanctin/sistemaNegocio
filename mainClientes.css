@@ -1,0 +1,17 @@
+
+html {
+  font-family: Arial;
+  font-size: 16px;
+}
+.menu {
+    position: fixed;
+    left: 0px;
+    right: 75%;
+    top: 10%;
+    bottom: 0px;
+    border: 1px solid;
+}
+.contenido {
+    border: 1px solid blue;
+    height: 100%;
+}
